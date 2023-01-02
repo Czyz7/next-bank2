@@ -1,3 +1,33 @@
+## Capstone Project for MIT's Full Stack Development Course
+2022-2023
+</br>
+
+- A Full Stack banking app. 
+- Utilizing the MERN Stack (MongoDB, Express, React, Node).
+- Leverage the built in libraries in Next.js. 
+- Front end CSS, HTML, JSX, & JavaScript.
+- API & Next/Auth middleware.
+- Express, MongoDB & mongoose for the Back End. 
+
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
