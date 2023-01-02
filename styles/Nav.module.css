@@ -1,0 +1,38 @@
+/* Navigation bar styles */
+.nav {
+    height: 60px;
+    padding: 0 20px;
+    background: #0d6e9f;
+    color: #9d4040;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+  }
+  
+  /* Navigation list styles */
+  .nav ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+  }
+  
+  /* Navigation list item styles */
+  .nav ul li a {
+    font-size: 14px;
+    font-weight: 500;
+    color: #1b0202;
+    text-decoration: none;
+    padding: 0 10px;
+    transition: all 0.3s ease;
+  }
+  
+  /* Navigation list item hover styles */
+  .nav ul li a:hover {
+    color: #b912c8;
+  }
+  
+  /* Navigation logo styles */
+  .nav .logo img {
+    height: 40px;
+  }
+  
